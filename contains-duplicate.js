@@ -22,7 +22,7 @@ var containsDuplicate = function(nums) {
 // Quick sort solution
 /**
  * Time: O(nlogn)
- * Space: O(1)
+ * Space: O(logn)
  * @param {number[]} nums
  * @return {boolean}
  */

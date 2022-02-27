@@ -1,7 +1,7 @@
 /**
  * Problem: https://leetcode.com/problems/kth-largest-element-in-an-array/
- * Space: O(1)
- * Time: O(nlogn)
+ * Space: O(logn)
+ * Time: O(n)
  * @param {number[]} nums
  * @param {number} k
  * @return {number}
